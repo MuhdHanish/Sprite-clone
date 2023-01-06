@@ -319,14 +319,14 @@ body{
     width: 22px;
 }
 #instagram1{
-    height: 20px;
+    height: 21px;
     position: relative;
     left: -75px;
     bottom: -62px;
     color: #009b4e;
     background-color: #ffffff;
     padding-left: 2px;
-    padding-top: 2px;
+    padding-top: 1px;
     padding-bottom: -2px;
     margin-top: -70px;
     border-radius: 11PX;
