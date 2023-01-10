@@ -51,13 +51,13 @@ body{
     position: relative;
     bottom: -17px;
     left: 460px;
-    bottom: 8px;
+    bottom: 33px;
 }
 #facebook {
     height: 17px;
     position: relative;
     left: 975px;
-    bottom: -2px;
+    bottom: 49px;
     color: #ffffff;
     padding-left: 2px;
     background-color: #009b4e;
@@ -71,7 +71,7 @@ body{
     height: 16px;
     position: relative;
     left: 995px;
-    bottom: -3px;
+    bottom: 49px;
     color: #009b4e;
     background-color: #ffffff;
     padding-left: 1px;
@@ -84,7 +84,7 @@ body{
     height: 17px;
     position: relative;
     left: 1014px;
-    bottom: -3px;
+    bottom: 49px;
     color: #009b4e;
     background-color: #ffffff;
     padding-left: 1px;
@@ -98,7 +98,7 @@ body{
     height: 18px;
     position: relative;
     left: 1030px;
-    bottom: -3px;
+    bottom: 49px;
     color: #009b4e;
     background-color: #ffffff;
     padding-left: 3px;
@@ -112,7 +112,7 @@ body{
     height: 18px;
     position: relative;
     left: 1050px;
-    bottom: -3px;
+    bottom: 49px;
     color: #009b4e;
     background-color: #ffffff;
     padding-left: 2px;
@@ -126,7 +126,7 @@ body{
     height: 20px;
     position: relative;
     left: 1070px;
-    bottom: -3px;
+    bottom: 49px;
     color: #ffffff;
     background-color: #009b4e;
     padding-left: 5px;
@@ -135,20 +135,6 @@ body{
     margin-top: -67px;
     border-radius: 11PX;
     width: 18px;
-}
-#comment{
-    height: 34px;
-    position: relative;
-    left: 974px;
-    bottom: -18px;
-    color: #ff0000;
-    background-color: #00ff80;
-    padding-left: -11px;
-    padding-top: -2px;
-    padding-bottom: -30px;
-    margin-top: -67px;
-    border-radius: 11PX;
-    width: 62px
 }
 .mid1{
     width: 100%;
