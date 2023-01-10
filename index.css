@@ -41,19 +41,17 @@ body{
 .creators{
     font-size: small;
     font-family: 'Archivo Black', sans-serif;
-    padding-left: 285PX;
-    margin-top: -26px;
     position: relative;
-    bottom: -9px;
+    bottom: 16px;
+    left: 290px;
 }
 .bynow{
     font-size: small;
     font-family: 'Archivo Black', sans-serif;
-    padding-left: 470PX;
-    margin-top: -26px;
     position: relative;
-    bottom: -18px;
-
+    bottom: -17px;
+    left: 460px;
+    bottom: 8px;
 }
 #facebook {
     height: 17px;
