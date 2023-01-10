@@ -38,12 +38,22 @@ body{
     padding-left: 135PX;
     margin-top: -40px;
 }
+.headerhover{
+    text-decoration: none;
+    color: #ffff;
+}
+.products a:hover{
+    color: black;
+}
 .creators{
     font-size: small;
     font-family: 'Archivo Black', sans-serif;
     position: relative;
     bottom: 16px;
     left: 290px;
+}
+.creators a:hover{
+    color: black;
 }
 .bynow{
     font-size: small;
@@ -52,6 +62,9 @@ body{
     bottom: -17px;
     left: 460px;
     bottom: 33px;
+}
+.bynow a:hover{
+    color: black;
 }
 #facebook {
     height: 17px;
